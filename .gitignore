@@ -1,0 +1,8 @@
+arcade
+.vscode
+Doxyfile
+html
+unit_tests
+*.o
+*.so
+*.txt
